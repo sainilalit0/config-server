@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Lavish Saini - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "{cipher}bae16d3a2698795128474aebc428fe1068d91288"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
